@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 live long and prosper
-=======
-i like blue
->>>>>>> personal_quotes
 
 
 I like Yellow
+
